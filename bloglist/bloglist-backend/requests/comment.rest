@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/65282d32da3d5793cf30b484/comments
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBla3NpIiwiaWQiOiI2NTY1MDNkMGFjMTM5MjQ2ODhlOGJkZDAiLCJpYXQiOjE3MDEzOTA5NzJ9.sUvBgsmnoup1bpY2O3Z9_QArBq9-5A6NgSO6vUMLhHU
+
+  {
+      "content": "Toimiiko kommentti"
+  }  
